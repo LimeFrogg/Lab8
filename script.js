@@ -77,3 +77,12 @@ if (hasCar = false, hasInsurance = false, hasLiscense = false){
     print = "Check your driving eligibility";
     console.log(hasCar + hasInsurance + hasLiscense);
 }
+
+var num = 21
+
+if (num %2 == 0){
+    console.log("number is even")
+}
+else {
+    console.log("it is odd")
+}
