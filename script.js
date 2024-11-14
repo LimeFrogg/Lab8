@@ -64,3 +64,16 @@ if (Num > 0, Num < 100){
     console.log(Num);
 }
 
+var hasCar = true
+var hasLiscense = true
+var hasInsurance = true
+
+if (hasCar = true, hasInsurance = true, hasLiscense = true){
+    print = "You can drive legally";
+    console.log(hasCar + hasInsurance + hasLiscense);
+}
+
+if (hasCar = false, hasInsurance = false, hasLiscense = false){
+    print = "Check your driving eligibility";
+    console.log(hasCar + hasInsurance + hasLiscense);
+}
