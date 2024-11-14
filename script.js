@@ -51,3 +51,9 @@ console.log(a<b)
 console.log(a>=b)
 console.log(a<=b)
 
+var FirstName = "Isabella"
+var LastName = "Mones"
+var Age = 18
+
+console.log("Hello", FirstName, LastName, "you are", Age, "years old.")
+
