@@ -24,4 +24,18 @@ if (isMember = true){
     console.log(isMember);
 }
 
+var startValue = 50;
+
+if (startValue > 0){
+    startValue = "Haha"
+    console.log(startvalue);
+}
+if (startValue < 0){
+    startValue = "Haha"
+    console.log(startvalue);
+}
+if (startValue = 0){
+    startValue = "Haha"
+    console.log(startvalue);
+}
 
