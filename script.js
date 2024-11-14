@@ -57,3 +57,10 @@ var Age = 18
 
 console.log("Hello", FirstName, LastName, "you are", Age, "years old.")
 
+var Num = 50
+
+if (Num > 0, Num < 100){
+    Num = "The number is within range";
+    console.log(Num);
+}
+
