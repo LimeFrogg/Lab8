@@ -9,4 +9,13 @@ var isJavaEasy = false;
 console.log(isJavaEasy);
 
 const str = "A String"
-HTMLFormControlsCollection.log(str);
+console.log(str);
+
+RollNumber = 15;
+
+if (RollNumber > 10){
+    RollNumber = "The RollNumber is greater than 10";
+    console.log(RollNumber);
+}
+
+
