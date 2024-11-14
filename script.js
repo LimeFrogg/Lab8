@@ -86,3 +86,17 @@ if (num %2 == 0){
 else {
     console.log("it is odd")
 }
+
+var score = 85
+
+if(score >= 90){
+    console.log("Grade A")
+}
+
+if(score > 80 < 90){
+    console.log("Grade B")
+}
+
+else {
+    console.log("Grade C")
+}
